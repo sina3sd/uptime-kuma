@@ -259,12 +259,14 @@ export default {
                 gotify: "Gotify",
                 lunasea: "LunaSea",
                 notifery: "Notifery",
+                notifyapp: "Notify!",
                 ntfy: "Ntfy",
                 pinglet: "Pinglet",
                 pushbullet: "Pushbullet",
                 PushByTechulus: "Push by Techulus",
                 pushover: "Pushover",
                 pushy: "Pushy",
+                signalgrid: "Signalgrid",
                 Webpush: "Webpush",
             };
 
